@@ -1,0 +1,70 @@
+
+body {background-color: #F1F9F8;}
+
+hr {
+border-style: dotted none none;
+border-width: 10px;
+width: 3%;
+border-color: #DFC3C9;
+}
+
+h1 {
+  color: #583065;
+}
+
+h3 {
+  color: #7564A8;
+
+}
+
+h2 {
+  color: #A86475;
+}
+
+/***************************CLASS SELECTORS************************************/
+.linkchez {
+  color: #E18C00;
+}
+.linkchez:hover{
+    color: #00E18C;
+}
+.SHUTDOWN {
+  color: red;
+  font-size: 100px
+}
+.shutdowncolor {
+  background-color: #F5C8C8;
+}
+.submitbutton:hover {
+  color: #556C3F;
+  border: dotted;
+  border-color: #80B684;
+  background-color: #9BB680;
+}
+.submitbutton {
+  background-color: #FFFB9F;
+  border: dotted;
+  border-color: #FFE19F;
+  color: #F0A912;
+}
+.textbox {
+  border: solid #4D188F;
+  background-color: #B288CD;
+  color: #534367;
+}
+.textbox:hover {
+  border: solid #18298F;
+  background-color: #8890CD;
+  color: #434B67;
+}
+.textextbox {
+  color: #D120C3;
+}
+.textextbox:hover {
+  color: #8620D1;
+}
+/******************************ID SELECTORS************************************/
+#profilephoto {
+  border: #F5C8C8;
+  border-style: dashed;
+}
